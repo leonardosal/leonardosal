@@ -21,4 +21,4 @@
 </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosal&layout=compact" alt="leonardosal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardosal&show_icons=true" alt="leonardosal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leonardosal&show_icons=true" alt="leonardosal" /></p>
